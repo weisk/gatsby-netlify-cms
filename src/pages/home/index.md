@@ -1,10 +1,10 @@
 ---
 templateKey: home-page
 headerImage:
-  image: /img/television.png
-  imageAlt: JavaScript Waskanda
-title: Meet other JavaScript Developers in Waskanda
-upcomingMeetupHeading: Upcoming Meetup
+  image: /img/20190801_181843.jpg
+  imageAlt: Drogazzo Tuttiplenne
+title: Aqui puedes comprar la cosa fina de la adelina
+upcomingMeetupHeading: Que viene que viene
 noUpcomingMeetupText: Details to be announced.
 mapsNote: Clicking the pin opens Google Maps in a new tab.
 callToActions:
