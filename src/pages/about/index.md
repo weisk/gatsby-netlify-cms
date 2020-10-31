@@ -1,6 +1,6 @@
 ---
 templateKey: about-page
-title: Wakanda JavaScript Developer Meetup
+title: Noia Ebria Ballant Brunch in the sky
 mainImage:
   image: /img/20190811_202917.jpg
   imageAlt: Wakanda JavaScript developer presenting at a meetup.
